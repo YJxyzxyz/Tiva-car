@@ -113,4 +113,15 @@ PDE_DEPS__QUOTED :=
 SUBDIRS := \
 . \
 drivers \
+lib/driverlib \
+lib/driverlib/ccs/Debug \
+lib/driverlib/ewarm/Exe \
+lib/driverlib/gcc \
+lib/driverlib/rvmdk \
+lib/sensorlib \
+lib/sensorlib/ccs/Debug \
+lib/sensorlib/ewarm/Exe \
+lib/sensorlib/gcc \
+lib/sensorlib/rvmdk \
+lib/utils \
 
